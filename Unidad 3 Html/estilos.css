@@ -6,15 +6,17 @@ h1{font-size: 45px;
     text-align: center;
     text-decoration: underline;
 }
-img{border-radius: 10px; width: 260px; display: flex;
+img{border-radius: 10px; width: 266px; display: flex;
     align-items: center;
     justify-content: center;
     float:right
+    
 }
 aside{
     float: right;
 background-color: #007ea7;
-border-radius: 10px;
+border-radius: 6px;
+padding: 3px;
 }
 a{
     text-decoration: none;
@@ -22,7 +24,9 @@ a{
 a:hover{text-decoration: underline;}
 aside a {color:beige;}
 p{background-color: #ffbe69b7;
-border-radius: 10px;
+width: 1160px;
+    border-radius: 6px;
+padding: 3px;
 }
 form p{background-color: transparent;}
 button{background-color: #e5383b;
